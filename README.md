@@ -10,6 +10,8 @@ SAROO 20240515开始支持菜单背景音乐，格式为PCM S16LE 2CH 16BIT 44.1
 
 使用前确保目录正确，不缺文件：
 
+下载BGSOUND.RAR解压缩至SAROO目录
+
 萨鲁/BGSOUND/
 
 		WAVPATCH 补丁文件，不要删除	
