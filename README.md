@@ -1,6 +1,8 @@
 # SAROO-BGSOUND
 SAROO 20240515开始支持菜单背景音乐，格式为PCM S16LE 2CH 16BIT 44.1K
+
 此工具安装至SAROO目录下，将任何音乐文件拷贝至此目录，将文件拖到相应的BAT文件上面即可
+
 （工具借助FFMPEG软件，使用前将FFMPEG.EXE拷贝到BGSOUND目录）
 
 
