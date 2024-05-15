@@ -8,7 +8,8 @@ SAROO 20240515开始支持菜单背景音乐，格式为PCM S16LE 2CH 16BIT 44.1
 
 使用前确保目录正确，不缺文件：
 
-SAROO/BGSOUND/
+萨鲁/BGSOUND/
+
 		WAVPATCH 补丁文件，不要删除	
 
 		多首歌曲multi-songs.bat 将多个音乐文件合并成一个背景音乐，逐个拖动音乐文件到此BAT文件上面，拖动的最后一个为播放时的第一首
