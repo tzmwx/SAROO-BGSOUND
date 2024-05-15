@@ -14,6 +14,8 @@ SAROO 20240515开始支持菜单背景音乐，格式为PCM S16LE 2CH 16BIT 44.1
 
 下载FFMPEG.EXE
 （https://ffmpeg.org/download.html#build-windows）
+（https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip）
+
 
 萨鲁/BGSOUND/
 
